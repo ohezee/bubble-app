@@ -1,2 +1,0 @@
-# bubble-app
-Bubble app
